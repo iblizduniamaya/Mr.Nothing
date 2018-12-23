@@ -33,7 +33,7 @@ echo  "[TOTALS    : 15] "                                           | lolcat
 echo  "[THANKS TO : INDONESIAN TERMUX ASSOCIATION] "                | lolcat
 echo  "[THANKS TO : INDO GHOST TEAM] "                              | lolcat
 echo  "[THANKS TO : CYBER FAMILY ASSOCIATION] "                     | lolcat
-echo  "[THANKS TO : HACKTIVITS INDONESIA]"                          | lolcat
+echo  "[THANKS TO : BOJONEGORO CYBER SECURITY]"                     | lolcat
 echo  "[THAMKS TO : BIG FAMILY 25 JUL] "                            | lolcat
 echo  "[THANKS TO : MR. UNKNOWN && 25 JUL] "                        | lolcat
 echo  "[NOTES     : MAAF KLO TOOLS MASIH ADA KEKURANGAN]"           | lolcat
