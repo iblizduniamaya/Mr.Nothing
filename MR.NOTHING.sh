@@ -29,14 +29,14 @@ figlet "MR. NOTHING" | lolcat
 echo  "★=========================«[+]»===========================★" | lolcat
 echo  "[AUTHOR    : MR.NOTHING] "                                   | lolcat
 echo  "[VERSION   : V.1] "                                          | lolcat
-echo  "[TOTALS    : 15] "                                           | lolcat
+echo  "[TOTALS    : 15+] "                                          | lolcat
 echo  "[THANKS TO : INDONESIAN TERMUX ASSOCIATION] "                | lolcat
 echo  "[THANKS TO : INDO GHOST TEAM] "                              | lolcat
 echo  "[THANKS TO : CYBER FAMILY ASSOCIATION] "                     | lolcat
-echo  "[THANKS TO : BOJONEGORO CYBER SECURITY]"                     | lolcat
+echo  "[THANKS TO : BOJONEGORO CYBER SECURITY] "                    | lolcat
 echo  "[THAMKS TO : BIG FAMILY 25 JUL] "                            | lolcat
 echo  "[THANKS TO : MR. UNKNOWN && 25 JUL] "                        | lolcat
-echo  "[NOTES     : MAAF KLO TOOLS MASIH ADA KEKURANGAN]"           | lolcat
+echo  "[NOTES     : MAAF KLO TOOLS MASIH ADA KEKURANGAN] "          | lolcat
 echo  "★=========================«[+]»==========================★"  | lolcat
 echo ""
 toilet -f slant --gay "MR.NOTHING"
@@ -72,6 +72,8 @@ echo "[+]=====================================================[+]" | lolcat
 echo "[14] SC CREATOR                                            " | lolcat
 echo "[+]=====================================================[+]" | lolcat
 echo "[15] TES KECEPATAN JARINGAN                                " | lolcat
+echo "[+]=====================================================[+]" | lolcat
+echo "[16] SPAM STOQO UNLIMITED                                  " | lolcat
 echo "[+]=====================================================[+]" | lolcat
 echo "[00] EXIT                                                  " | lolcat
 echo "[+]=====================================================[+]" | lolcat
@@ -240,6 +242,16 @@ pip install --upgrade pip
 git clone https://github.com/Rusmana-ID/rus
 cd rus
 python2 Speed.py
+fi
+
+if [ $gg = 16 ] || [ $gg = 16 ]
+then
+apt update && apt upgrade -y
+pkg install git
+git clone https://github.com/kereh/STOQO_SPAM.git
+cd STOQO_SPAM
+chmod +x stoqo.py
+python2 stoqo.py
 fi
 
 if [ $gg = 00 ] || [ $gg = 00 ]
